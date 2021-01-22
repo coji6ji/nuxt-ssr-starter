@@ -2,7 +2,7 @@ export default {
   head: {
     title: 'Nuxt SSR Starter',
     htmlAttrs: {
-      lang: 'en'
+      lang: 'ja'
     },
     meta: [
       { charset: 'utf-8' },
@@ -25,6 +25,5 @@ export default {
     '@nuxtjs/axios'
   ],
   axios: {},
-  build: {
-  }
+  build: {}
 }
