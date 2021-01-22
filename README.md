@@ -1,4 +1,4 @@
-# app
+# Nuxt SSR Starter with Vercel
 
 ## Build Setup
 
